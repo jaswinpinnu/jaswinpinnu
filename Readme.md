@@ -29,10 +29,10 @@
 
 ## 🦸 ABOUT ME
 
-```javascript
+
 const jaswin = {
   name: "Jaswin Pinnu",
-  role: "Full Stack Developer",
+  role: "Full Stack Developer intern",
   education: "B.Tech CSE - AI & ML",
   graduation: 2026,
   location: "Bengaluru, Karnataka",
@@ -49,7 +49,6 @@ const jaswin = {
 };
 
 console.log("Avengers Protocol Activated 🚀");
-```
 
 - 💻 Developed responsive web interfaces during my Full Stack Developer internship at Teachnook.
 - 🛒 Built **RK Fashions**, a full-stack e-commerce web application.
