@@ -9,7 +9,7 @@
 
 # ⚡ AVENGERS PROTOCOL: ONLINE ⚡
 
-### Full Stack Developer | AI & ML Enthusiast
+### Full Stack Developer Intern | AI & ML Enthusiast
 
 *Building digital experiences. Exploring intelligent systems. Engineering the future.*
 
