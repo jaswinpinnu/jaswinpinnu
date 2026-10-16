@@ -28,7 +28,11 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=jaswinpinnu&style=flat-square&color=e53935" alt="Profile views"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaswinpinnu&color=e53935&style=flat" alt="Profile views" />
+</p>
+
 
 </div>
 
