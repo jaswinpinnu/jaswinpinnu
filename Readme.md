@@ -1,5 +1,4 @@
 
-<
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,100:087EAA&height=220&section=header&text=JASWIN%20PINNU&fontSize=48&fontColor=FFFFFF&animation=fadeIn"
