@@ -1,7 +1,12 @@
 
+<
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B16,45:14213D,75:B71C1C,100:087EAA&height=220&section=header&text=JASWIN%20PINNU&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20ML&descSize=17&descAlignY=60" width="100%" alt="Jaswin Pinnu - Developer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,100:087EAA&height=220&section=header&text=JASWIN%20PINNU&fontSize=48&fontColor=FFFFFF&animation=fadeIn"
+    width="100%"
+    alt="Jaswin Pinnu - Full Stack Developer Intern"
+  />
+</div>
 
 # ⚡ AVENGERS PROTOCOL: ONLINE ⚡
 
@@ -21,7 +26,13 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=jaswinpinnu&label=PROFILE+VISITORS&color=B71C1C&style=flat-square" alt="Profile views"/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jaswinpinnu&style=flat-square&color=e53935" alt="Profile views"/>
+
+</div>
+
 
 </div>
 
