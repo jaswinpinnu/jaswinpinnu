@@ -1,20 +1,21 @@
-<table>
-<tr>
-<td width="25%" align="center" valign="middle">
-  <img
-    src="assets/jaswin-pinnu.png"
-    width="168"
-    alt="Jaswin Pinnu portrait"
-  />
-</td>
-<td width="75%" align="center" valign="middle">
-  <img
-    src="assets/hero.svg"
-    width="100%"
-    alt="Jaswin Pinnu — Full Stack Developer, AI and Machine Learning"
-  />
-</td>
-</tr>
+
+<table width="100%">
+  <tr>
+    <td width="28%" align="center" valign="middle">
+      <img
+        src="assets/jaswin-pinnu.png"
+        width="200"
+        alt="Jaswin Pinnu portrait"
+      />
+    </td>
+    <td width="72%" align="center" valign="middle">
+      <img
+        src="assets/hero.svg"
+        width="100%"
+        alt="Jaswin Pinnu — Full Stack Developer, AI and Machine Learning"
+      />
+    </td>
+  </tr>
 </table>
 
 <div align="center">
@@ -25,7 +26,6 @@
 
 </div>
 
----
 
 <img src="assets/about-divider.svg" width="100%" alt="About me" />
 
