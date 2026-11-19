@@ -1,14 +1,6 @@
 
 
 <table width="100%">
-  <tr>
-    <td width="30%" align="center" valign="middle">
-      <img
-        src="assets/jaswin pinnu.png"
-        width="220"
-        alt="Jaswin Pinnu portrait"
-      />
-    </td>
     <td width="70%" align="left" valign="middle">
       <img
         src="assets/hero.svg"
@@ -16,7 +8,6 @@
         alt="Jaswin Pinnu — Full Stack Developer, AI and Machine Learning"
       />
     </td>
-  </tr>
 </table>
 
 <div align="center">
