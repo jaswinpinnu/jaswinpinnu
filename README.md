@@ -1,13 +1,15 @@
 
 
 <table width="100%">
-    <td width="70%" align="left" valign="middle">
+  <tr>
+    <td width="100%" align="center" valign="middle">
       <img
-        src="assets/hero.svg"
+        src="./assets/hero.svg"
         width="100%"
         alt="Jaswin Pinnu — Full Stack Developer, AI and Machine Learning"
       />
     </td>
+  </tr>
 </table>
 
 <div align="center">
