@@ -1,14 +1,15 @@
 
+
 <table width="100%">
   <tr>
-    <td width="28%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle">
       <img
         src="assets/jaswin-pinnu.png"
-        width="200"
+        width="220"
         alt="Jaswin Pinnu portrait"
       />
     </td>
-    <td width="72%" align="center" valign="middle">
+    <td width="70%" align="left" valign="middle">
       <img
         src="assets/hero.svg"
         width="100%"
