@@ -4,7 +4,7 @@
   <tr>
     <td width="30%" align="center" valign="middle">
       <img
-        src="assets/jaswin-pinnu.png"
+        src="assets/jaswin pinnu.png"
         width="220"
         alt="Jaswin Pinnu portrait"
       />
