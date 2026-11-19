@@ -16,7 +16,7 @@ Building responsive web experiences and exploring intelligent systems.
 </td>
 <td width="32%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/jaswinpinnu/jaswinpinnu/main/assets/jaswin-pinnu.png" width="190" alt="Portrait of Jaswin Pinnu" />
+<img src="https://raw.githubusercontent.com/jaswinpinnu/jaswinpinnu/main/assets/jaswin-pinnu.png" width="230" alt="Jaswin Pinnu — original portrait with its studio background" />
 
 </td>
 </tr>
