@@ -1,26 +1,16 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="68%" valign="middle">
+<img src="assets/hero.svg" width="100%" alt="Jaswin Pinnu — Full Stack Developer, AI and Machine Learning" />
 
-# Hey, I'm Jaswin Pinnu 👋
+<br/>
 
-### Full Stack Developer · AI & Machine Learning
+<img src="assets/jaswin-pinnu.png" width="168" alt="Jaswin Pinnu portrait" />
 
-Building responsive web experiences and exploring intelligent systems.
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-8B3D5A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswin-pinnu-5b99572a3)
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow-252525?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaswinpinnu)
-
-</td>
-<td width="32%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/jaswinpinnu/jaswinpinnu/main/assets/jaswin-pinnu.png" width="230" alt="Jaswin Pinnu — original portrait with its studio background" />
-
-</td>
-</tr>
-</table>
+[![Email](https://img.shields.io/badge/EMAIL-Say%20hello-8B3D5A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswinpinnu@gmail.com)
 
 </div>
 

@@ -16,7 +16,3 @@ The README embeds public stats cards from github-readme-stats and streak-stats. 
 
 ## Personal details
 The README uses facts from the supplied resume. Update the project links if you later publish dedicated repositories for either project.
-
-
-## Portrait display fix
-The README header uses a two-column HTML table with the portrait loaded directly from `https://raw.githubusercontent.com/jaswinpinnu/jaswinpinnu/main/assets/jaswin-pinnu.png`. Keep `assets/jaswin-pinnu.png` at that exact location and ensure the repository is public. This avoids relying on a relative image reference inside an SVG.
