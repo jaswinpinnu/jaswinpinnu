@@ -1,8 +1,23 @@
+<table>
+<tr>
+<td width="25%" align="center" valign="middle">
+  <img
+    src="assets/jaswin-pinnu.png"
+    width="168"
+    alt="Jaswin Pinnu portrait"
+  />
+</td>
+<td width="75%" align="center" valign="middle">
+  <img
+    src="assets/hero.svg"
+    width="100%"
+    alt="Jaswin Pinnu — Full Stack Developer, AI and Machine Learning"
+  />
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<img src="assets/hero.svg" width="100%" alt="Jaswin Pinnu — Full Stack Developer, AI and Machine Learning" />
-<img src="assets/jaswin-pinnu.png" width="168" alt="Jaswin Pinnu portrait" />
-
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-8B3D5A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswin-pinnu-5b99572a3)
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow-252525?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaswinpinnu)
