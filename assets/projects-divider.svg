@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90">
+<defs><linearGradient id="g"><stop stop-color="#6d2442"/><stop offset="1" stop-color="#d17a9b"/></linearGradient></defs>
+<rect width="900" height="90" rx="14" fill="#141116"/><rect x="0" y="0" width="7" height="90" rx="3" fill="url(#g)"/>
+<text x="30" y="55" fill="#f5e8ee" font-family="Segoe UI,Arial" font-size="25" font-weight="700" letter-spacing="4">02  /  SELECTED PROJECTS</text>
+<path d="M650 45 H850" stroke="url(#g)" stroke-width="2"/><circle cx="850" cy="45" r="5" fill="#d17a9b"/>
+</svg>

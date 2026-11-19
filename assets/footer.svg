@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130">
+<defs><linearGradient id="g"><stop stop-color="#6d2442"/><stop offset=".5" stop-color="#d17a9b"/><stop offset="1" stop-color="#6d2442"/></linearGradient></defs>
+<rect width="1200" height="130" rx="18" fill="#111015"/>
+<path d="M60 38 H1140" stroke="url(#g)" stroke-width="2"/>
+<text x="600" y="82" text-anchor="middle" fill="#f2dce5" font-family="Segoe UI,Arial" font-size="20" letter-spacing="3">THANKS FOR STOPPING BY</text>
+<text x="600" y="108" text-anchor="middle" fill="#ad8998" font-family="Segoe UI,Arial" font-size="12" letter-spacing="2">KEEP LEARNING · KEEP BUILDING</text>
+</svg>
