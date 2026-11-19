@@ -4,7 +4,7 @@
   <tr>
     <td width="100%" align="center" valign="middle">
       <img
-        src="./assets/hero.svg"
+        src="hero.svg"
         width="100%"
         alt="Jaswin Pinnu — Full Stack Developer, AI and Machine Learning"
       />
